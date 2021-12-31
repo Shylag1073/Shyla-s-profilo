@@ -1,0 +1,20 @@
+* {
+    background-color: blanchedalmond;
+}
+header {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    padding: 50px;
+}
+header img{
+display: flex;
+justify-content: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large
+}
