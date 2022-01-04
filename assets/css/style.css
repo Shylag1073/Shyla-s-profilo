@@ -104,10 +104,9 @@ header nav :hover {
 }
 
 a img:hover {
-  border: 15px solid;
-  border-color: black;
+  text-shadow: 5px 10px 15px rgba(0, 0, 0, 0);
+  box-shadow: 5px 10px 15px black;
+
 }
-a ul {
-  display: inline;
-}
+
 
