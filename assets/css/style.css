@@ -107,4 +107,7 @@ a img:hover {
   border: 15px solid;
   border-color: black;
 }
+a ul {
+  display: inline;
+}
 
