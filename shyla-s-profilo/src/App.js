@@ -6,7 +6,7 @@ import ho from './IMAGES/Horiseon.png'
 import rb from './IMAGES/Run buddy.png'
 import scho from './IMAGES/Scholarshipapp.png'
 
-function App() {
+function App() {    
   return (
     <div className="App">
 <div>
